@@ -1,0 +1,549 @@
+[{
+  "_id": {
+    "$oid": "604abb8c68772428309181f0"
+  },
+  "Ramo de Atividade": "Atacado",
+  "Divisões": "COMÉRCIO POR ATACADO, EXCETO VEÍCULOS AUTOMOTORES E MOTOCICLETAS",
+  "(DIVISÃO - 2digitos CNAE)": "46"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181f1"
+  },
+  "Ramo de Atividade": "Indústria Automotiva",
+  "Divisões": "FABRICAÇÃO DE VEÍCULOS AUTOMOTORES, REBOQUES E CARROCERIAS",
+  "(DIVISÃO - 2digitos CNAE)": "29"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181f2"
+  },
+  "Divisões": "FABRICAÇÃO DE OUTROS EQUIPAMENTOS DE TRANSPORTE, EXCETO VEÍCULOS AUTOMOTORES",
+  "(DIVISÃO - 2digitos CNAE)": "30"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181f3"
+  },
+  "Ramo de Atividade": "Bens de Capital",
+  "Divisões": "ATIVIDADES DE SERVIÇOS FINANCEIROS",
+  "(DIVISÃO - 2digitos CNAE)": "64"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181f4"
+  },
+  "Divisões": "SEGUROS, RESSEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE",
+  "(DIVISÃO - 2digitos CNAE)": "65"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181f5"
+  },
+  "Divisões": "ATIVIDADES AUXILIARES DOS SERVIÇOS FINANCEIROS, SEGUROS, PREVIDÊNCIA COMPLEMENTAR E PLANOS DE SAÚDE",
+  "(DIVISÃO - 2digitos CNAE)": "66"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181f6"
+  },
+  "Ramo de Atividade": "Bens de Consumo",
+  "Divisões": "FABRICAÇÃO DE PRODUTOS ALIMENTÍCIOS",
+  "(DIVISÃO - 2digitos CNAE)": "10"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181f7"
+  },
+  "Divisões": "FABRICAÇÃO DE BEBIDAS",
+  "(DIVISÃO - 2digitos CNAE)": "11"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181f8"
+  },
+  "Divisões": "FABRICAÇÃO DE PRODUTOS DO FUMO",
+  "(DIVISÃO - 2digitos CNAE)": "12"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181f9"
+  },
+  "Divisões": "CONFECÇÃO DE ARTIGOS DO VESTUÁRIO E ACESSÓRIOS",
+  "(DIVISÃO - 2digitos CNAE)": "14"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181fa"
+  },
+  "Divisões": "PREPARAÇÃO DE COUROS E FABRICAÇÃO DE ARTEFATOS DE COURO, ARTIGOS PARA VIAGEM E CALÇADOS",
+  "(DIVISÃO - 2digitos CNAE)": "15"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181fb"
+  },
+  "Divisões": "FABRICAÇÃO DE PRODUTOS DE MADEIRA",
+  "(DIVISÃO - 2digitos CNAE)": "16"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181fc"
+  },
+  "Divisões": "FABRICAÇÃO DE MÓVEIS",
+  "(DIVISÃO - 2digitos CNAE)": "31"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181fd"
+  },
+  "Ramo de Atividade": "Diversos",
+  "Divisões": "FABRICAÇÃO DE PRODUTOS DIVERSOS",
+  "(DIVISÃO - 2digitos CNAE)": "32"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181fe"
+  },
+  "Ramo de Atividade": "Eletroeletrônicos",
+  "Divisões": "FABRICAÇÃO DE EQUIPAMENTOS DE INFORMÁTICA, PRODUTOS ELETRÔNICOS E ÓPTICOS",
+  "(DIVISÃO - 2digitos CNAE)": "26"
+},{
+  "_id": {
+    "$oid": "604abb8c68772428309181ff"
+  },
+  "Divisões": "FABRICAÇÃO DE MÁQUINAS, APARELHOS E MATERIAIS ELÉTRICOS",
+  "(DIVISÃO - 2digitos CNAE)": "27"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918200"
+  },
+  "Ramo de Atividade": "Energia",
+  "Divisões": "ELETRICIDADE, GÁS E OUTRAS UTILIDADES",
+  "(DIVISÃO - 2digitos CNAE)": "35"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918201"
+  },
+  "Ramo de Atividade": "Farmacêutica",
+  "Divisões": "FABRICAÇÃO DE PRODUTOS FARMOQUÍMICOS E FARMACÊUTICOS",
+  "(DIVISÃO - 2digitos CNAE)": "21"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918202"
+  },
+  "Ramo de Atividade": "Indústria da Construção",
+  "Divisões": "CONSTRUÇÃO DE EDIFÍCIOS",
+  "(DIVISÃO - 2digitos CNAE)": "41"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918203"
+  },
+  "Divisões": "OBRAS DE INFRA-ESTRUTURA",
+  "(DIVISÃO - 2digitos CNAE)": "42"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918204"
+  },
+  "Divisões": "SERVIÇOS ESPECIALIZADOS PARA CONSTRUÇÃO",
+  "(DIVISÃO - 2digitos CNAE)": "43"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918205"
+  },
+  "Ramo de Atividade": "Indústria Digital",
+  "Divisões": "ATIVIDADES DOS SERVIÇOS DE TECNOLOGIA DA INFORMAÇÃO",
+  "(DIVISÃO - 2digitos CNAE)": "62"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918206"
+  },
+  "Divisões": "ATIVIDADES DE PRESTAÇÃO DE SERVIÇOS DE INFORMAÇÃO",
+  "(DIVISÃO - 2digitos CNAE)": "63"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918207"
+  },
+  "Ramo de Atividade": "Mineração",
+  "Divisões": "EXTRAÇÃO DE CARVÃO MINERAL",
+  "(DIVISÃO - 2digitos CNAE)": "05"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918208"
+  },
+  "Divisões": "EXTRAÇÃO DE PETRÓLEO E GÁS NATURAL",
+  "(DIVISÃO - 2digitos CNAE)": "06"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918209"
+  },
+  "Divisões": "EXTRAÇÃO DE MINERAIS METÁLICOS",
+  "(DIVISÃO - 2digitos CNAE)": "07"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091820a"
+  },
+  "Divisões": "EXTRAÇÃO DE MINERAIS NÃO-METÁLICOS",
+  "(DIVISÃO - 2digitos CNAE)": "08"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091820b"
+  },
+  "Divisões": "ATIVIDADES DE APOIO À EXTRAÇÃO DE MINERAIS",
+  "(DIVISÃO - 2digitos CNAE)": "09"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091820c"
+  },
+  "Ramo de Atividade": "Papel e Celulose",
+  "Divisões": "FABRICAÇÃO DE CELULOSE, PAPEL E PRODUTOS DE PAPEL",
+  "(DIVISÃO - 2digitos CNAE)": "17"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091820d"
+  },
+  "Divisões": "IMPRESSÃO E REPRODUÇÃO DE GRAVAÇÕES",
+  "(DIVISÃO - 2digitos CNAE)": "18"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091820e"
+  },
+  "Ramo de Atividade": "Produtos de Agropecuária",
+  "Divisões": "AGRICULTURA, PECUÁRIA E SERVIÇOS RELACIONADOS",
+  "(DIVISÃO - 2digitos CNAE)": "01"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091820f"
+  },
+  "Divisões": "PRODUÇÃO FLORESTAL",
+  "(DIVISÃO - 2digitos CNAE)": "02"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918210"
+  },
+  "Divisões": "PESCA E AQÜICULTURA",
+  "(DIVISÃO - 2digitos CNAE)": "03"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918211"
+  },
+  "Ramo de Atividade": "Química-Petroquímica",
+  "Divisões": "FABRICAÇÃO DE COQUE, DE PRODUTOS DERIVADOS DO PETRÓLEO E DE BIOCOMBUSTÍVEIS",
+  "(DIVISÃO - 2digitos CNAE)": "19"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918212"
+  },
+  "Divisões": "FABRICAÇÃO DE PRODUTOS QUÍMICOS",
+  "(DIVISÃO - 2digitos CNAE)": "20"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918213"
+  },
+  "Divisões": "FABRICAÇÃO DE PRODUTOS DE BORRACHA E DE MATERIAL PLÁSTICO",
+  "(DIVISÃO - 2digitos CNAE)": "22"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918214"
+  },
+  "Divisões": "FABRICAÇÃO DE PRODUTOS DE MINERAIS NÃO-METÁLICOS",
+  "(DIVISÃO - 2digitos CNAE)": "23"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918215"
+  },
+  "Ramo de Atividade": "Siderúrgica-Metalurgia",
+  "Divisões": "METALURGIA",
+  "(DIVISÃO - 2digitos CNAE)": "24"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918216"
+  },
+  "Divisões": "FABRICAÇÃO DE PRODUTOS DE METAL, EXCETO MÁQUINAS E EQUIPAMENTOS",
+  "(DIVISÃO - 2digitos CNAE)": "25"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918217"
+  },
+  "Divisões": "FABRICAÇÃO DE MÁQUINAS E EQUIPAMENTOS",
+  "(DIVISÃO - 2digitos CNAE)": "28"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918218"
+  },
+  "Ramo de Atividade": "Telecom",
+  "Divisões": "EDIÇÃO E EDIÇÃO INTEGRADA À IMPRESSÃO",
+  "(DIVISÃO - 2digitos CNAE)": "58"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918219"
+  },
+  "Divisões": "ATIVIDADES CINEMATOGRÁFICAS, PRODUÇÃO DE VÍDEOS E DE PROGRAMAS DE TELEVISÃO; GRAVAÇÃO DE SOM E EDIÇÃO DE MÚSICA",
+  "(DIVISÃO - 2digitos CNAE)": "59"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091821a"
+  },
+  "Divisões": "ATIVIDADES DE RÁDIO E DE TELEVISÃO",
+  "(DIVISÃO - 2digitos CNAE)": "60"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091821b"
+  },
+  "Divisões": "TELECOMUNICAÇÕES",
+  "(DIVISÃO - 2digitos CNAE)": "61"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091821c"
+  },
+  "Ramo de Atividade": "Têxteis",
+  "Divisões": "FABRICAÇÃO DE PRODUTOS TÊXTEIS",
+  "(DIVISÃO - 2digitos CNAE)": "13"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091821d"
+  },
+  "Ramo de Atividade": "Transporte",
+  "Divisões": "TRANSPORTE TERRESTRE",
+  "(DIVISÃO - 2digitos CNAE)": "49"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091821e"
+  },
+  "Divisões": "TRANSPORTE AQUAVIÁRIO",
+  "(DIVISÃO - 2digitos CNAE)": "50"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091821f"
+  },
+  "Divisões": "TRANSPORTE AÉREO",
+  "(DIVISÃO - 2digitos CNAE)": "51"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918220"
+  },
+  "Divisões": "ARMAZENAMENTO E ATIVIDADES AUXILIARES DOS TRANSPORTES",
+  "(DIVISÃO - 2digitos CNAE)": "52"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918221"
+  },
+  "Divisões": "CORREIO E OUTRAS ATIVIDADES DE ENTREGA",
+  "(DIVISÃO - 2digitos CNAE)": "53"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918222"
+  },
+  "Ramo de Atividade": "Varejo",
+  "Divisões": "COMÉRCIO E REPARAÇÃO DE VEÍCULOS AUTOMOTORES E MOTOCICLETAS",
+  "(DIVISÃO - 2digitos CNAE)": "45"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918223"
+  },
+  "Divisões": "COMÉRCIO VAREJISTA",
+  "(DIVISÃO - 2digitos CNAE)": "47"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918224"
+  },
+  "Ramo de Atividade": "Serviços de Saneamento Básico",
+  "Divisões": "CAPTAÇÃO, TRATAMENTO E DISTRIBUIÇÃO DE ÁGUA",
+  "(DIVISÃO - 2digitos CNAE)": "36"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918225"
+  },
+  "Divisões": "ESGOTO E ATIVIDADES RELACIONADAS",
+  "(DIVISÃO - 2digitos CNAE)": "37"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918226"
+  },
+  "Divisões": "COLETA, TRATAMENTO E DISPOSIÇÃO DE RESÍDUOS; RECUPERAÇÃO DE MATERIAIS",
+  "(DIVISÃO - 2digitos CNAE)": "38"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918227"
+  },
+  "Divisões": "DESCONTAMINAÇÃO E OUTROS SERVIÇOS DE GESTÃO DE RESÍDUOS",
+  "(DIVISÃO - 2digitos CNAE)": "39"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918228"
+  },
+  "Ramo de Atividade": "Serviços de Alojamento/Alimentação",
+  "Divisões": "ALOJAMENTO",
+  "(DIVISÃO - 2digitos CNAE)": "55"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918229"
+  },
+  "Divisões": "ALIMENTAÇÃO",
+  "(DIVISÃO - 2digitos CNAE)": "56"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091822a"
+  },
+  "Ramo de Atividade": "Serviços Administrativos",
+  "Divisões": "ATIVIDADES IMOBILIÁRIAS",
+  "(DIVISÃO - 2digitos CNAE)": "68"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091822b"
+  },
+  "Divisões": "ALUGUÉIS NÃO-IMOBILIÁRIOS E GESTÃO DE ATIVOS INTANGÍVEIS NÃO-FINANCEIROS",
+  "(DIVISÃO - 2digitos CNAE)": "77"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091822c"
+  },
+  "Divisões": "ATIVIDADES DE VIGILÂNCIA, SEGURANÇA E INVESTIGAÇÃO",
+  "(DIVISÃO - 2digitos CNAE)": "80"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091822d"
+  },
+  "Divisões": "SELEÇÃO, AGENCIAMENTO E LOCAÇÃO DE MÃO-DE-OBRA",
+  "(DIVISÃO - 2digitos CNAE)": "78"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091822e"
+  },
+  "Divisões": "AGÊNCIAS DE VIAGENS, OPERADORES TURÍSTICOS E SERVIÇOS DE RESERVAS",
+  "(DIVISÃO - 2digitos CNAE)": "79"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091822f"
+  },
+  "Divisões": "SERVIÇOS PARA EDIFÍCIOS E ATIVIDADES PAISAGÍSTICAS",
+  "(DIVISÃO - 2digitos CNAE)": "81"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918230"
+  },
+  "Divisões": "SERVIÇOS DE ESCRITÓRIO, DE APOIO ADMINISTRATIVO E OUTROS SERVIÇOS PRESTADOS ÀS EMPRESAS",
+  "(DIVISÃO - 2digitos CNAE)": "82"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918231"
+  },
+  "Ramo de Atividade": "Serviços Profissionais e Técnicos",
+  "Divisões": "ATIVIDADES JURÍDICAS, DE CONTABILIDADE E DE AUDITORIA",
+  "(DIVISÃO - 2digitos CNAE)": "69"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918232"
+  },
+  "Divisões": "ATIVIDADES DE SEDES DE EMPRESAS E DE CONSULTORIA EM GESTÃO EMPRESARIAL",
+  "(DIVISÃO - 2digitos CNAE)": "70"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918233"
+  },
+  "Divisões": "REPARAÇÃO E MANUTENÇÃO DE EQUIPAMENTOS DE INFORMÁTICA E COMUNICAÇÃO E DE OBJETOS PESSOAIS E DOMÉSTICOS",
+  "(DIVISÃO - 2digitos CNAE)": "95"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918234"
+  },
+  "Divisões": "SERVIÇOS DE ARQUITETURA E ENGENHARIA; TESTES E ANÁLISES TÉCNICAS",
+  "(DIVISÃO - 2digitos CNAE)": "71"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918235"
+  },
+  "Divisões": "PESQUISA E DESENVOLVIMENTO CIENTÍFICO",
+  "(DIVISÃO - 2digitos CNAE)": "72"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918236"
+  },
+  "Divisões": "PUBLICIDADE E PESQUISA DE MERCADO",
+  "(DIVISÃO - 2digitos CNAE)": "73"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918237"
+  },
+  "Divisões": "OUTRAS ATIVIDADES PROFISSIONAIS, CIENTÍFICAS E TÉCNICAS",
+  "(DIVISÃO - 2digitos CNAE)": "74"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918238"
+  },
+  "Divisões": "ATIVIDADES VETERINÁRIAS",
+  "(DIVISÃO - 2digitos CNAE)": "75"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918239"
+  },
+  "Ramo de Atividade": "Serviços de Educação",
+  "Divisões": "EDUCAÇÃO",
+  "(DIVISÃO - 2digitos CNAE)": "85"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091823a"
+  },
+  "Ramo de Atividade": "Serviços de Saúde",
+  "Divisões": "ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA",
+  "(DIVISÃO - 2digitos CNAE)": "86"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091823b"
+  },
+  "Divisões": "ATIVIDADES DE ATENÇÃO À SAÚDE HUMANA INTEGRADAS COM ASSISTÊNCIA SOCIAL, PRESTADAS EM RESIDÊNCIAS COLETIVAS E PARTICULARES",
+  "(DIVISÃO - 2digitos CNAE)": "87"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091823c"
+  },
+  "Divisões": "SERVIÇOS DE ASSISTÊNCIA SOCIAL SEM ALOJAMENTO",
+  "(DIVISÃO - 2digitos CNAE)": "88"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091823d"
+  },
+  "Ramo de Atividade": "Serviços Diversos",
+  "Divisões": "MANUTENÇÃO, REPARAÇÃO E INSTALAÇÃO DE MÁQUINAS E EQUIPAMENTO",
+  "(DIVISÃO - 2digitos CNAE)": "33"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091823e"
+  },
+  "Divisões": "ATIVIDADES ARTÍSTICAS, CRIATIVAS E DE ESPETÁCULOS",
+  "(DIVISÃO - 2digitos CNAE)": "90"
+},{
+  "_id": {
+    "$oid": "604abb8c687724283091823f"
+  },
+  "Divisões": "ATIVIDADES LIGADAS AO PATRIMÔNIO CULTURAL E AMBIENTAL",
+  "(DIVISÃO - 2digitos CNAE)": "91"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918240"
+  },
+  "Divisões": "ATIVIDADES DE EXPLORAÇÃO DE JOGOS DE AZAR E APOSTAS",
+  "(DIVISÃO - 2digitos CNAE)": "92"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918241"
+  },
+  "Divisões": "ATIVIDADES ESPORTIVAS E DE RECREAÇÃO E LAZER",
+  "(DIVISÃO - 2digitos CNAE)": "93"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918242"
+  },
+  "Divisões": "ATIVIDADES DE ORGANIZAÇÕES ASSOCIATIVAS",
+  "(DIVISÃO - 2digitos CNAE)": "94"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918243"
+  },
+  "Divisões": "OUTRAS ATIVIDADES DE SERVIÇOS PESSOAIS",
+  "(DIVISÃO - 2digitos CNAE)": "96"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918244"
+  },
+  "Divisões": "SERVIÇOS DOMÉSTICOS",
+  "(DIVISÃO - 2digitos CNAE)": "97"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918245"
+  },
+  "Divisões": "ORGANISMOS INTERNACIONAIS E OUTRAS INSTITUIÇÕES EXTRATERRITO",
+  "(DIVISÃO - 2digitos CNAE)": "99"
+},{
+  "_id": {
+    "$oid": "604abb8c6877242830918246"
+  },
+  "Divisões": "ADMINISTRAÇÃO PÚBLICA, DEFESA E SEGURIDADE SOCIAL",
+  "(DIVISÃO - 2digitos CNAE)": "84"
+}]

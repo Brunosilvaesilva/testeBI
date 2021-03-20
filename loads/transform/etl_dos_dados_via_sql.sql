@@ -5,43 +5,15 @@
 	create table d_cnae_empresas (
 				[cd_cnpj]				[varchar](max) NULL,
 				[cd_cnae_dois_digitos]	[varchar](max) NULL,
-				[nu_ordem_1]			[varchar](max) NULL,
-				[nu_ordem_2]			[varchar](max) NULL,
-				[nu_ordem_3]			[varchar](max) NULL,
-				[nu_ordem_4]			[varchar](max) NULL,
-				[nu_ordem_5]			[varchar](max) NULL,
-				[cd_ramo_atividade_1]	[varchar](max) NOT NULL,
-				[cd_ramo_atividade_2]	[varchar](max) NULL,
-				[cd_ramo_atividade_3]	[varchar](max) NULL,
-				[cd_ramo_atividade_4]	[varchar](max) NULL,
-				[cd_ramo_atividade_5]	[varchar](max) NULL,
-				[de_ramo_atividade_1]	[varchar](max) NOT NULL,
-				[de_ramo_atividade_2]	[varchar](max) NULL,
-				[de_ramo_atividade_3]	[varchar](max) NULL,
-				[de_ramo_atividade_4]	[varchar](max) NULL,
-				[de_ramo_atividade_5]	[varchar](max) NULL
+				[nu_ordem]			[varchar](max) NULL,
 				)
-	
+
 	insert into d_cnae_empresas 
 	select
 		left(concat(cd_cnpj, '00'),14)				as cd_cnpj
-		,cast(left(cd_ramo_atividade_1, 2) as int)	as cd_cnae_dois_digitos			
-		,[nu_ordem_1]		
-		,[nu_ordem_2]		
-		,[nu_ordem_3]		
-		,[nu_ordem_4]		
-		,[nu_ordem_5]		
-		,[cd_ramo_atividade_1]
-		,[cd_ramo_atividade_2]
-		,[cd_ramo_atividade_3]
-		,[cd_ramo_atividade_4]
-		,[cd_ramo_atividade_5]
-		,[de_ramo_atividade_1]
-		,[de_ramo_atividade_2]
-		,[de_ramo_atividade_3]
-		,[de_ramo_atividade_4]
-		,[de_ramo_atividade_5]	
-	from cnae_empresas_pivot
+		,cast(left(cd_ramo_atividade, 2) as int)	as cd_cnae_dois_digitos			
+		,[nu_ordem]		
+	from ETL_CNAE
 
 --- Carrega tabela com o cadastro das empresas. 
 
